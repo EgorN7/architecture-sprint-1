@@ -118,4 +118,4 @@ Webpack Module Federation.
 
 # Задание 2.
 
-[Решение второго задания](https://github.com/EgorN7/architecture-sprint-1/blob/sprint_1/arch_template_task2mySolve.drawio))
+[Решение второго задания](https://github.com/EgorN7/architecture-sprint-1/blob/sprint_1/arch_template_task2mySolve.drawio)
